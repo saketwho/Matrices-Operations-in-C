@@ -1,9 +1,0 @@
-{
-    "C_Cpp.errorSquiggles": "disabled",
-    "files.exclude": {
-        "**/*.exe": true
-    },
-    "search.exclude": {
-        "**/*.exe": true
-    }
-}
